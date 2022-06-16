@@ -1,0 +1,10 @@
+﻿Pridėtos kainos:
+-----------------------------
+| Vertybė         |  Kiekis |
+-----------------------------
+| Kompiuteris     |       4 |
+| Pelė            |       2 |
+| Vanduo          |       2 |
+-----------------------------
+Suma, kurią reikia sumokėti: 2180.98
+

@@ -1,0 +1,8 @@
+﻿AV2322
+Procesorius;2;120
+Vaizdo plokštė;3;150
+Monitorius;1;100
+Kompiuteris;2;300
+Klaviatūra;1;72
+Pelė;3;35
+Laidas;2;4

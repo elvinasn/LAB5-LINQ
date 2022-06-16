@@ -1,0 +1,7 @@
+﻿Vaizdo plokštė;4
+Laidas;2
+Ausinės;3
+Stovas;2
+Pagalvė;2
+Pleistrai;1
+Daugintuvas;3

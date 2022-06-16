@@ -1,0 +1,7 @@
+﻿AV2321
+Ausinės;3;123
+Telefonas;4;302
+Stovas;3;32
+Mikrofonas;2;23
+Kompiuteris;3;432
+Laptopas;2;234

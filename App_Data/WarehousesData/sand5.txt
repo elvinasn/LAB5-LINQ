@@ -1,0 +1,6 @@
+﻿AV2319
+Vanduo;3;0.56
+Gertuvė;1;0.5
+Pleistrai;2;1.23
+Lemputė;2;3
+Daugintuvas;4;23

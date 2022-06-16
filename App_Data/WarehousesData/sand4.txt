@@ -1,0 +1,7 @@
+﻿AV2320
+Vanduo;3;0.99
+Limonadas;2;34
+Pagalvė;3;10.66
+Gertuvė;2;13.23
+Puodelis;3;11
+Lėkštė;3;5.5

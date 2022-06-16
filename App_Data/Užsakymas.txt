@@ -1,0 +1,7 @@
+﻿Kompiuteris;4
+Pelė;2
+Telefonas;4
+Klaviatūra;3
+Vanduo;4
+Lėkštė;3
+Gertuvė;5

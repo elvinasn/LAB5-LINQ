@@ -1,0 +1,88 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+body {
+    background-color: #EAF2EF;
+}
+
+input, body {
+    font-family: 'Work Sans', sans-serif !important;
+    color: #361F27 !important;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+#container, #container2 {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+}
+
+form > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+table {
+    border-color: black;
+    border-width: 2px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+tr {
+    background-color: #9BD1E5;
+}
+
+    tr:first-child > td {
+        text-align: center;
+        background-color: #6A8EAE;
+    }
+
+td {
+    padding: 4px;
+}
+
+.none > *:not(:last-child) {
+    margin-right: 15px;
+}
+
+.none {
+    visibility: hidden;
+}
+input[type="submit"] {
+    transition: 0.3s ease;
+    padding: 10px 20px;
+    border: none;
+    background-color: #6A8EAE;
+    border: 2px solid #6A8EAE;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+input[type="submit"]:enabled:hover{
+    box-shadow: 0px 0px 5px #b3b3b3;
+    transform: scale(1.07);
+}
+input[type="submit"]:disabled{
+    background-color: #ddd;
+    cursor: initial;
+
+}
